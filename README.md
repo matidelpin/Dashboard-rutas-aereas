@@ -21,8 +21,8 @@ Proyecto de Business Intelligence desarrollado en Excel Avanzado. Analicé una b
 - FastJet es la compañía aérea con la mayor participación de mercado, ya que concentra cerca del 20% de los ingresos totales del sector.
 
 ## Capturas del Dashboard
-![Dashboard](capturas/dashboard1.png)
-![Análisis de rentabilidad](capturas/rentabilidad.png)
+![Dashboard](https://drive.google.com/file/d/1rv6Pnrwbj-yqZSawTEIJSt8pMVU1Tu_p/view?usp=sharing)
+![Análisis de rentabilidad](https://drive.google.com/file/d/1rv6Pnrwbj-yqZSawTEIJSt8pMVU1Tu_p/view?usp=sharing)
 
 ## ¿Cómo usarlo?
 1.  Descarga el archivo `Dashboard_Rutas_Aereas.xlsx`
