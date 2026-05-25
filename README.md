@@ -16,7 +16,7 @@ Proyecto de Business Intelligence desarrollado en Excel Avanzado. Analicé una b
 - **Análisis de datos**: Limpieza y modelamiento de datos
 
 ## Resultados Clave
-- Identifiqué que la ruta con mayor demanda es Dubai-Roma2.
+- Identifiqué que la ruta con mayor demanda es Dubai-Roma.
 - La demanda se incrementa un 63% entre Enero y Julio.
 - FastJet es la aerolínea con la mayor participación de mercado, concentrando cerca del 20% de los ingresos totales del sector.
 
